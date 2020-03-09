@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\vasimsharif.sm.OPTISOLBUSINESS\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\vasimsharif.sm.OPTISOLBUSINESS\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}

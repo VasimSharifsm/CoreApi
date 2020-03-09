@@ -1,0 +1,14 @@
+D:\Vasim\Vs2017\Core\POC\WorkBench\WorkBench\bin\Debug\netcoreapp2.1\WorkBench.deps.json
+D:\Vasim\Vs2017\Core\POC\WorkBench\WorkBench\bin\Debug\netcoreapp2.1\WorkBench.runtimeconfig.json
+D:\Vasim\Vs2017\Core\POC\WorkBench\WorkBench\bin\Debug\netcoreapp2.1\WorkBench.runtimeconfig.dev.json
+D:\Vasim\Vs2017\Core\POC\WorkBench\WorkBench\bin\Debug\netcoreapp2.1\WorkBench.dll
+D:\Vasim\Vs2017\Core\POC\WorkBench\WorkBench\bin\Debug\netcoreapp2.1\WorkBench.pdb
+D:\Vasim\Vs2017\Core\POC\WorkBench\WorkBench\obj\Debug\netcoreapp2.1\WorkBench.csproj.CoreCompileInputs.cache
+D:\Vasim\Vs2017\Core\POC\WorkBench\WorkBench\obj\Debug\netcoreapp2.1\WorkBench.RazorAssemblyInfo.cache
+D:\Vasim\Vs2017\Core\POC\WorkBench\WorkBench\obj\Debug\netcoreapp2.1\WorkBench.RazorAssemblyInfo.cs
+D:\Vasim\Vs2017\Core\POC\WorkBench\WorkBench\obj\Debug\netcoreapp2.1\WorkBench.AssemblyInfoInputs.cache
+D:\Vasim\Vs2017\Core\POC\WorkBench\WorkBench\obj\Debug\netcoreapp2.1\WorkBench.AssemblyInfo.cs
+D:\Vasim\Vs2017\Core\POC\WorkBench\WorkBench\obj\Debug\netcoreapp2.1\WorkBench.RazorTargetAssemblyInfo.cache
+D:\Vasim\Vs2017\Core\POC\WorkBench\WorkBench\obj\Debug\netcoreapp2.1\WorkBench.dll
+D:\Vasim\Vs2017\Core\POC\WorkBench\WorkBench\obj\Debug\netcoreapp2.1\WorkBench.pdb
+D:\Vasim\Vs2017\Core\POC\WorkBench\WorkBench\obj\Debug\netcoreapp2.1\WorkBench.csprojAssemblyReference.cache
